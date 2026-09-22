@@ -110,6 +110,4 @@ Streamlit Deployment
 ## 👨‍💻 Author
 
 **Amit Kumar Singh**
-
-B.Tech CSE — Artificial Intelligence
-Techno India University, West Bengal
+ 
